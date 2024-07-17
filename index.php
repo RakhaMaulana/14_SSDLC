@@ -1,0 +1,1 @@
+<a href="login.php">Login with Google</a>
